@@ -1,0 +1,3 @@
+[submodule "open-mantra-dataset"]
+	path = open-mantra-dataset
+	url = https://github.com/mantra-inc/open-mantra-dataset.git
